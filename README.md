@@ -1,5 +1,7 @@
 # Description
 
+https://challenge.kalapa.vn/portal/vietnamese-medical-question-answering/overview
+
 ## Problem statement
 
 OCR là một trong những bài toán kinh điển trong lĩnh vực thị giác máy tính. Tuy đã được nghiên cứu trong nhiều năm nhưng việc OCR chữ viết tay, đặc biệt là với tiếng Việt còn gặp nhiều khó khăn.
